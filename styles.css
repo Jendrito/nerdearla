@@ -252,7 +252,7 @@ main {
 }
 
 .contact-form h3 {
-    color: #232f3e;
+    color: #ffffff;
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 16px;
@@ -302,7 +302,7 @@ main {
 .form-group label {
     display: block;
     font-weight: 600;
-    color: #232f3e;
+    color: #ffffff;
     margin-bottom: 8px;
     font-size: 16px;
 }
