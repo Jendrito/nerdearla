@@ -193,7 +193,7 @@ main {
     opacity: 0.8;
 }
 
-.tools.box::after {
+.tools-box::after {
     content: '';
     position: absolute;
     top: 20px;
