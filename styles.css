@@ -205,7 +205,7 @@ main {
     opacity: 0.8;
 }
 
-.aws-journey h3 {
+.aws-journey h3, .tools-box h3 {
     color: #ffffff;
     font-size: 32px;
     font-weight: 700;
