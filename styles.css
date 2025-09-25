@@ -213,7 +213,7 @@ main {
     letter-spacing: -0.02em;
 }
 
-.aws-journey p {
+.aws-journey p, .tools-box p  {
     font-size: 16px;
     color: #cccccc;
     margin-bottom: 32px;
