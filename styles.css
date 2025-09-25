@@ -226,7 +226,7 @@ main {
 .my-badges {
     background: #1c1c1c; 
     border-radius: 8px;
-    padding: 40px;
+    padding: 30px 40px;
     margin-bottom: 40px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     position: relative;
@@ -250,7 +250,7 @@ main {
 }
 
 .tryhackme-embed {
-    width: 100%;
+    max-width: 350px;
     margin: 30px auto 0;
 }
 
